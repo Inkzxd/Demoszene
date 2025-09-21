@@ -8,26 +8,30 @@ Dieses Projekt ist eine Einführung in die Demoszene und beinhaltet die Entwickl
 
 ## Technologien
 
-* OpenGL
-* GLSL
-* Eigenentwickelte Tools und Frameworks
+* Grafik-API: OpenGL
+* Shader:GLSL
+* Fenster- und Eingabemanagement: GLFW
+* Mathematische Operationen: GLM
+* Font-Rendering: Eigenes System mit VT323
+* Audio: SFML
+* Build-System: CMake
+* GeoJSON-Datenverarbeitung: nlohmann::json
 
 ## Autoren
 
-Xudong Zhang & Christian Pentry, HTW Saar, Sommersemester 2025
+Xudong Zhang & Christian Pentry, HTW Saar, Sommersemester 2025  
+
 Betreuer: Andreas Schaffhauser & Prof. Dr.-Ing. André Miede
 
 > Hinweis: Der ursprüngliche Code lag auf GitLab, diese Version wurde auf GitHub zur Präsentation übertragen.
 <br>
   
 <img width="1919" height="1079" alt="screenshot_login" src="https://github.com/user-attachments/assets/684ec2b7-d466-4e8d-9222-69d0584b56ba" />
-<br>
   
 <img width="1919" height="1079" alt="screenshot_terminal" src="https://github.com/user-attachments/assets/522776fa-4ce8-4d9d-8817-51f985c8a77c" />
-<br>
-  
+
 <img width="1919" height="1079" alt="screenshot_karte_deutschland" src="https://github.com/user-attachments/assets/598869af-db2b-40b8-a22f-c14f8f49322f" />
-<br>
+
 
 ## Beschreibung
 Diese Software ist als Teil einer Projektarbeit im Rahmen des Kurses PIB-PA der htw saar entwickelt worden.
