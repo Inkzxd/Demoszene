@@ -1,0 +1,3 @@
+C:/Users/Christian/Documents/Git Repos/pa_demoszene/Demo-Code/build/CMakeFiles/RetroTerminal.dir
+C:/Users/Christian/Documents/Git Repos/pa_demoszene/Demo-Code/build/CMakeFiles/edit_cache.dir
+C:/Users/Christian/Documents/Git Repos/pa_demoszene/Demo-Code/build/CMakeFiles/rebuild_cache.dir
