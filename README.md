@@ -19,7 +19,7 @@ Dieses Projekt ist eine Einführung in die Demoszene und beinhaltet die Entwickl
 
 ## Autoren
 
-Xudong Zhang & Christian Pentry, HTW Saar, Sommersemester 2025  
+Christian Pentry & Xudong Zhang, HTW Saar, Sommersemester 2025  
 
 Betreuer: Andreas Schaffhauser & Prof. Dr.-Ing. André Miede
 
