@@ -1,5 +1,12 @@
 # PIB-PA: Einführung in die Demoszene
 
+<img width="1919" height="1079" alt="screenshot_login" src="https://github.com/user-attachments/assets/684ec2b7-d466-4e8d-9222-69d0584b56ba" />
+
+<img width="1919" height="1079" alt="screenshot_terminal" src="https://github.com/user-attachments/assets/522776fa-4ce8-4d9d-8817-51f985c8a77c" />
+
+<img width="1919" height="1079" alt="screenshot_karte_deutschland" src="https://github.com/user-attachments/assets/598869af-db2b-40b8-a22f-c14f8f49322f" />
+
+
 ## Beschreibung
 Diese Software ist als Teil einer Projektarbeit im Rahmen des Kurses PIB-PA der htw saar entwickelt worden.
 Sie beinhaltet eine selbst entwickelte Demo, die sich im Bereich der Demoszene bewegt.
